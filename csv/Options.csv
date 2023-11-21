@@ -6,7 +6,7 @@ Display Title,topleft,"Select position to display map title, or off",
 Author Name,Recovering the US HIspanic Literary Heritage ,"Appears in credits as ""View data by..."" (or leave blank)",
 Author Email or Website,apprec@central.uh.edu ,Insert your email or web address to appear as link in Author Name (or leave blank),
 Author Code Repo,https://github.com/HandsOnDataViz/leaflet-maps-with-google-sheets,"Appears in credits as ""View code by..."" (or leave blank)",
-Author Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Insert your code repo URL to appear as link in ""View code by..."" (or leave blank)",
+Author Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Insert your code repo URL to appear as link in ""View code by..."" (or leave blank)"
 Google Analytics Tracking ID,,General format: UA-5488840-29
 Map Settings,,"For help, see tutorial in DataVizForAll.org      ------>",http://www.datavizforall.org/leaflet/with-google-sheets
 Basemap Tiles,Stadia.StamenTerrain,Select basemap background from drop-down menu
@@ -17,8 +17,6 @@ Initial Center Latitude,,Leave blank to auto-center for all markers (or insert i
 Initial Center Longitude,,Leave blank to auto-center for all markers (or insert initial longitude),
 Map Controls,,,
 Search Button,topright,Display the Mapzen search box (magnifying glass),
-Mapzen Search Key,"search-e1d6bc54fcd6f8c2b17826f483dc246e75340092
-",Mapzen Search box requires free API key. Please insert your own,https://mapzen.com/dashboard
 Search Radius,5 miles,Select radius for results from Mapzen search,
 Search Results Zoom Level,20,Select zoom level to display search results (larger = zoom in more),
 Show My Location,topright,Display the Show My Location button (black marker),
